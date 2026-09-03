@@ -6,7 +6,7 @@
 
 ## About This Portfolio
 
-This portfolio contains the project management work I will complete throughout IT 3310. As an Associate Consultant with NovaTech Consulting, I will work through a semester-long client engagement and add each completed project artifact to this repository.
+This portfolio contains the project management work I will complete throughout the IT 3310 course. As an Associate Consultant with NovaTech Consulting, I will work through a semester-long client engagement and add each completed project artifact to this repository.
 
 ## NovaTech Consulting
 
