@@ -59,6 +59,10 @@ The project team could review available float, adjust resources, or prepare trai
 | C | Develop staff training materials | 5 | A | 2 |
 | D | Conduct intake workflow testing | 5 | B,C | 4 |
 
+### Scheduling Gap Explanation
+Activity D begins in Week 4 because it must wait for both Activities B and C to finish. Although Activity C finishes in Week 2, Activity B requires 10 working days and does not finish until the end of Week 3. Therefore, Week 4 is the earliest feasible start for Activity D. The waiting time is caused by the dependency on Activity B, not an unnecessary scheduling delay.
+
+
 ### Scheduling Assumptions
 I estimated the activity durations using five working days per week and the complexity of each task. Confirming intake requirements should take approximately five days. Configuring the standardized intake workflow will take longer, so I allowed ten days. Developing staff training materials and conducting initial workflow testing are each estimated at five days.
 
